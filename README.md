@@ -1,2 +1,2 @@
 # practicas-react
-this is a basic react component proyect 
+here I put all the projects that I built in react
